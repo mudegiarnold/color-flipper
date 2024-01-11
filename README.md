@@ -1,5 +1,4 @@
-# color-flipper
- ColorFlipper 🌈
+# color-flipper🌈
 Welcome to ColorFlipper, a fun and interactive web application that allows you to explore a vibrant spectrum of colors with just a click! Whether you're a designer seeking inspiration, a developer experimenting with color schemes, or just someone looking to add a splash of color to your day, ColorFlipper has got you covered.
 
 Features:
